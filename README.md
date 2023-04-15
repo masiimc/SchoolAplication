@@ -1,6 +1,6 @@
 # SchoolAplication
 
-🔗Live Demo : 
+🔗Live Demo :  https://masiimc.github.io/SchoolAplication/
 
 This application takes the score and at the same time calculates the lowest score, the highest score and the average and displays it
 
